@@ -1,5 +1,5 @@
 # Dice-App
-A simple dice app to return the results of a single or multiple dice when thrown. To the run the app please run in an IRB such as PRY and type
+A simple dice app to return the results of a single or multiple dice when thrown. To the run the app please run in an IRB such as PRY and type:
 
 ```
 require "./lib/dice.rb"
@@ -13,7 +13,7 @@ dice = Dice.new
 
 Then type
 
-```ruby
+```
 dice.roll(n)
 ```
 
