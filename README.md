@@ -5,7 +5,11 @@ A simple dice app to return the results of a single or multiple dice when thrown
 require "./lib/dice.rb"
 ```
 
-Once the application has started, please enter dice = Dice.new
+Once the application has started, please enter
+
+```
+dice = Dice.new
+```
 
 Then type
 
