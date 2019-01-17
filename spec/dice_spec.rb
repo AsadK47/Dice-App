@@ -1,8 +1,7 @@
 require "dice"
 
 describe Dice do
-
-  it "Expects arguments" do
+  it "Expects dice to respond to roll" do
     expect(subject).to respond_to(:roll).with(1).argument
   end
 
@@ -13,5 +12,4 @@ describe Dice do
   it "Checks the length of the array" do
     expect(subject.roll(1).length).to eq(1)
   end
-
 end

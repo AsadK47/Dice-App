@@ -18,3 +18,7 @@ dice.roll(n)
 ```
 
 Where n is the number of dice you wish to roll at one time. The results will be displayed out from an array.
+
+# Example screenshot of app in action in the terminal
+
+![](assets/README-7722eec7.png)
