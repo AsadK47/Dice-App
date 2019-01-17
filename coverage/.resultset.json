@@ -1,0 +1,33 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/asadk/Projects/Makers-Course/Week1/dice_app/spec/dice_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/asadk/Projects/Makers-Course/Week1/dice_app/lib/dice.rb": [
+        1,
+        1,
+        2,
+        4,
+        4,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1547720418
+  }
+}
